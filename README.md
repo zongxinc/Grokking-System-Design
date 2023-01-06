@@ -80,6 +80,7 @@ b) Learn more about how large-scale systems work and thought process of designin
 
 For a very broad overview please go through these lectures, really useful:
 * [Gaurav Sen's system design series](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+#### [Note](https://drive.google.com/drive/u/0/folders/1y_QCHh76RUC3TtgpztZ-UGunCt5PmTCc)
 Starts from simple stuff like load balancing and message queues, then moves to building full systems like Whatsapp and Tinder.
 
 * [david malans cs75 scalability talk](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
